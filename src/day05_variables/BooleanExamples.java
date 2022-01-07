@@ -15,5 +15,6 @@ public class BooleanExamples {
         System.out.println("isSanny = " + isSanny);
         System.out.println("isWeekend="+isWeekday);
         System.out.println("hello");
+        System.out.println("world");
     }
 }
